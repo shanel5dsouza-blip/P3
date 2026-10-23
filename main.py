@@ -1,0 +1,1 @@
+birthdate = str(input("Enter your bith date :"))
